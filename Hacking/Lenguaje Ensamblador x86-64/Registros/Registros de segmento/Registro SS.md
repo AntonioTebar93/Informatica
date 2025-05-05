@@ -1,0 +1,1 @@
+El stack segment registra puntos a este segmento, donde se encuentra la pila de la memoria

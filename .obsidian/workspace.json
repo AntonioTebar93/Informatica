@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "08c8fdfd831acb89",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5d04165019ea083",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e425b70df6d83f0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desarrollo/Web/Frameworks/BackEnd/Symfony/3. Implementación de templates/1.Primer template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.Primer template"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9cc23116872a3018",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e4ee3d8239c2966",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1488e07dc1ca064",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "775d8b0ba09ab1d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "eb00ae4b4ebfe075",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "c821e130e26ccfea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 367.5062484741211
+  },
+  "right": {
+    "id": "d7e788db363d17ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "9029a163754aabf3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9ca206a5f3bbf57",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Coding/JavaScript/0 - Conceptos Básicos/11 - Funciones y Métodos/6 - Funciones Flecha.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 6 - Funciones Flecha"
+            }
+          },
+          {
+            "id": "cd501c08d0377f71",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Coding/JavaScript/0 - Conceptos Básicos/11 - Funciones y Métodos/6 - Funciones Flecha.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de 6 - Funciones Flecha"
+            }
+          },
+          {
+            "id": "5bbf9db33a641888",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "3a57587efa5796be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Utilidades/Git-GitHub/GitHub/4.Configurar una conexión SSH con GitHub.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 4.Configurar una conexión SSH con GitHub"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e425b70df6d83f0b",
+  "lastOpenFiles": [
+    "Desarrollo/Web/Frameworks/BackEnd/Symfony/APIs/APIs.md",
+    "Recursos/Pasted image 20250504155032.png",
+    "Desarrollo/Web/Frameworks/BackEnd/Symfony/3. Implementación de templates/1.Primer template.md",
+    "Recursos/Pasted image 20250505092431.png",
+    "Recursos/Pasted image 20250505085735.png",
+    "Recursos/Pasted image 20250505085125.png",
+    "Desarrollo/Web/Frameworks/BackEnd/Symfony/2.Templates con Twig/3.Declarar variables dentro de Twig.md",
+    "Desarrollo/Web/WordPress/1.Escritorio de Wordpress/1.Usuarios y roles.md",
+    "Desarrollo/Web/Frameworks/BackEnd/Symfony/3. Implementación de templates",
+    "Desarrollo/Web/Frameworks/BackEnd/Symfony/2.Templates con Twig/3. Implementación de templates/1.Primer template",
+    "Desarrollo/Web/WordPress/0.Instalación/1.Instalar Xampp.md",
+    "Desarrollo/Web/WordPress/1.Escritorio de Wordpress",
+    "Desarrollo/Web/WordPress/0.Instalación/4.Reiniciar la contraseña de Wordpress en local.md",
+    "Desarrollo/Web/WordPress/0.Instalación",
+    "Desarrollo/Web/WordPress/0.Instalación/3.Instalaciones adicionales.md",
+    "Desarrollo/Web/WordPress/0.Instalación/2.Instalar Wordpress.md",
+    "Desarrollo/Web/Frameworks/BackEnd/Symfony/2.Templates con Twig/10.Personalizar las páginas de error..md",
+    "Desarrollo/Web/Frameworks/BackEnd/Symfony/2.Templates con Twig/9.Navegación con path..md",
+    "Recursos/Pasted image 20250504161503.png",
+    "Recursos/Pasted image 20250504160831.png",
+    "Recursos/Pasted image 20250504160643.png",
+    "Desarrollo/Web/Frameworks/BackEnd/Symfony/2.Templates con Twig/8.Configuración de variables globales.md",
+    "Recursos/Pasted image 20250504155828.png",
+    "Recursos/Pasted image 20250504155746.png",
+    "Desarrollo/Web/Frameworks/BackEnd/Symfony/2.Templates con Twig/7.Output Escaping.md",
+    "Desarrollo/Web/Frameworks/BackEnd/Symfony/2.Templates con Twig/6. Incluir otros html en una plantilla twig.md",
+    "Programación/JavaScript/6.Arrays/5.Eliminar elementos de un array.md",
+    "Recursos/Pasted image 20250504154601.png",
+    "Desarrollo/Web/Frameworks/BackEnd/Symfony/2.Templates con Twig/5.Ciclos o bucles en twig.md",
+    "Desarrollo/Web/Frameworks/BackEnd/Symfony/2.Templates con Twig/4.Estructuras condicionales en Twig.md",
+    "Desarrollo/Web/Frameworks/BackEnd/Symfony/2.Templates con Twig/1.Primera plantilla.md",
+    "Desarrollo/Web/Frameworks/BackEnd/Symfony/2.Templates con Twig/2.Interpolación desde controlador.md",
+    "Programación/JavaScript/5.Objetos/10.Últimos métodos para objetos..md",
+    "Programación/JavaScript/5.Objetos/9.El objeto constructor.md",
+    "Programación/JavaScript/5.Objetos/8.Funciones en Objetos y acceder a sus valores..md",
+    "Programación/JavaScript/5.Objetos/7.Copiar 2 Objetos.md",
+    "Programación/JavaScript/6.Arrays/4.Crear un nuevo arreglo con spred operator.md",
+    "Programación/JavaScript/6.Arrays/3.Recorrer un array y añadir elementos.md",
+    "Programación/JavaScript/6.Arrays/2.Acceder a los valores de un array.md",
+    "Programación/JavaScript/6.Arrays/1.Declaración de Arrays.md",
+    "Programación/JavaScript/6.Arrays",
+    "Bases de Datos/SQL",
+    "Desarrollo/Web/Frameworks/BackEnd/Symfony/2.Templates con Twig",
+    "Desarrollo/Web/Frameworks/BackEnd/Symfony/1. Rutas y controladores",
+    "Programación/JavaScript/5.Objetos",
+    "Programación/JavaScript/4.Booleanos"
+  ]
+}
