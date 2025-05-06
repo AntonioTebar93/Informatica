@@ -8,45 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cae498a8b00a3f99",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Recursos/Pasted image 20250505130218.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250505130218"
-            }
-          },
-          {
-            "id": "7438e2a70cc0ac2c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Recursos/Pasted image 20250505130218.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250505130218"
-            }
-          },
-          {
             "id": "eb94060cd22517e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo/Web/Frameworks/BackEnd/Symfony/4.Formularios/6.Mensajes flash y redireccionamiento.md",
+                "file": "Bases de Datos/mySQL/2.Conocer estructuras/4.Modificar aspectos de una tabla..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.Mensajes flash y redireccionamiento"
+              "title": "4.Modificar aspectos de una tabla."
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,52 +177,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb94060cd22517e1",
+  "active": "f1488e07dc1ca064",
   "lastOpenFiles": [
-    "Desarrollo/Web/Frameworks/BackEnd/Symfony/4.Formularios/5.CSRF.md",
-    "Desarrollo/Web/Frameworks/BackEnd/Symfony/4.Formularios/4.Procesar un formulario con handleRequest y isSubmitted.md",
-    "Desarrollo/Web/Frameworks/BackEnd/Symfony/4.Formularios/3.Bootstrap en formularios.md",
+    "Bases de Datos/mySQL/4.SELECT",
+    "Untitled",
+    "Bases de Datos/mySQL/3.Manipulación de datos",
+    "Pasted image 20250506101158.png",
+    "Pasted image 20250506101105.png",
+    "Pasted image 20250506100245.png",
+    "Pasted image 20250506100033.png",
+    "Bases de Datos/mySQL/2.Conocer estructuras/2.Actualizar las tablas.md",
+    "Bases de Datos/mySQL/2.Conocer estructuras/1. Estructura base de datos uy objetos contenidos en ella..md",
+    "Bases de Datos/mySQL/2.Conocer estructuras/4.Modificar aspectos de una tabla..md",
+    "Hacking/Lenguaje Ensamblador x86-64/Registros/Registros de segmento/Registro SS.md",
+    "Recursos/Pasted image 20250506092334.png",
+    "Programación/Python/API/Conectar Python con ChatGPT.md",
+    "Programación/Python/API/Conectar Python con AbuseIP.md",
+    "Programación/Python/Generico/Conceptos Básicos/Textos.md",
+    "Bases de Datos/mySQL/2.Conocer estructuras/3.Eliminar columnas de una tabla.md",
+    "Recursos/Pasted image 20250506095459.png",
+    "Bases de Datos/PostgreSQL",
+    "Bases de Datos/MongoDB",
+    "Bases de Datos/Bases de d",
+    "Bases de Datos/SQLite",
+    "Recursos/Pasted image 20250506094603.png",
+    "Recursos/Pasted image 20250506094231.png",
+    "Bases de Datos/mySQL/1.Creación/3.Columnas virtuales.md",
+    "Recursos/Pasted image 20250506093501.png",
+    "Bases de Datos/mySQL/2.Conocer estructuras",
+    "Recursos/Pasted image 20250506091822.png",
+    "Bases de Datos/mySQL/1.Creación",
+    "Bases de Datos/mySQL/1.Creación/2.Creación de tablas.md",
+    "Bases de Datos/mySQL/00.Tipos de datos/Tratado de datos JSON.md",
+    "Bases de Datos/mySQL/00.Tipos de datos/Valores y tipos de datos.md",
+    "Bases de Datos/mySQL/1.Creación/1.Creación de la base de datos.md",
+    "Bases de Datos/mySQL/00a.Operadores/Operadores artiméticos y precedencia de operadores.md",
+    "Bases de Datos/mySQL/00.Tipos de datos",
+    "Bases de Datos/mySQL/00a.Operadores/Operadores de conjuntos.md",
+    "Bases de Datos/mySQL/00a.Operadores/Operadores lógicos.md",
+    "Bases de Datos/mySQL/00a.Operadores/Operadores de comparación.md",
+    "Bases de Datos/mySQL/00a.Operadores",
+    "Desarrollo/Web/WordPress/1.Escritorio de Wordpress/2.Entradas.md",
+    "Desarrollo/Web/WordPress/1.Escritorio de Wordpress/1.Usuarios y roles.md",
+    "Desarrollo/Web/WordPress/0.Instalación/2.Instalar Wordpress.md",
+    "Desarrollo/Web/WordPress/0.Instalación/3.Instalaciones adicionales.md",
+    "Desarrollo/Web/WordPress/0.Instalación/4.Reiniciar la contraseña de Wordpress en local.md",
     "Desarrollo/Web/Frameworks/BackEnd/Symfony/4.Formularios/2.Creación de formulario.md",
     "Desarrollo/Web/Frameworks/BackEnd/Symfony/4.Formularios/1.Instalación de formularios.md",
-    "Desarrollo/Web/Frameworks/BackEnd/Symfony/3. Implementación de templates/1.Primer template.md",
-    "Desarrollo/Web/Frameworks/BackEnd/Symfony/3. Implementación de templates/2.Recursos estáticos (imágenes, css, js).md",
-    "Desarrollo/Web/Frameworks/BackEnd/Symfony/3. Implementación de templates/3.DOM (Implementación de Bootstrap).md",
-    "Desarrollo/Web/Frameworks/BackEnd/Symfony/4.Formularios/6.Mensajes flash y redireccionamiento.md",
-    "Recursos/Pasted image 20250505130218.png",
-    "Recursos/Pasted image 20250505130339.png",
-    "Recursos/Pasted image 20250505130451.png",
-    "Recursos/Pasted image 20250505125603.png",
-    "Recursos/Pasted image 20250505125840.png",
-    "Recursos/Pasted image 20250505125815.png",
-    "Recursos/Pasted image 20250505121028.png",
-    "Recursos/Pasted image 20250505124833.png",
-    "Recursos/Pasted image 20250505124538.png",
-    "Recursos/Pasted image 20250505124417.png",
-    "Hardware",
-    "Desarrollo/Web/Frameworks/BackEnd/Symfony/1.Comandos Útiles para la consola.md",
-    "Desarrollo/Web/Frameworks/BackEnd/Symfony/0.Instalación de Composer.md",
-    "Desarrollo/Web/Frameworks/BackEnd/Symfony/4.Formularios",
-    "Desarrollo/Web/Frameworks/BackEnd/Symfony/APIs/APIs.md",
-    "Desarrollo/Web/Frameworks/BackEnd/Symfony/2.Templates con Twig/3.Declarar variables dentro de Twig.md",
-    "Desarrollo/Web/WordPress/1.Escritorio de Wordpress/1.Usuarios y roles.md",
-    "Desarrollo/Web/Frameworks/BackEnd/Symfony/3. Implementación de templates",
-    "Desarrollo/Web/Frameworks/BackEnd/Symfony/2.Templates con Twig/3. Implementación de templates/1.Primer template",
-    "Desarrollo/Web/WordPress/0.Instalación/1.Instalar Xampp.md",
-    "Desarrollo/Web/WordPress/1.Escritorio de Wordpress",
-    "Desarrollo/Web/WordPress/0.Instalación/4.Reiniciar la contraseña de Wordpress en local.md",
-    "Desarrollo/Web/WordPress/0.Instalación",
-    "Desarrollo/Web/WordPress/0.Instalación/3.Instalaciones adicionales.md",
-    "Desarrollo/Web/WordPress/0.Instalación/2.Instalar Wordpress.md",
-    "Desarrollo/Web/Frameworks/BackEnd/Symfony/2.Templates con Twig/10.Personalizar las páginas de error..md",
-    "Desarrollo/Web/Frameworks/BackEnd/Symfony/2.Templates con Twig/9.Navegación con path..md",
-    "Desarrollo/Web/Frameworks/BackEnd/Symfony/2.Templates con Twig/8.Configuración de variables globales.md",
-    "Desarrollo/Web/Frameworks/BackEnd/Symfony/2.Templates con Twig/7.Output Escaping.md",
-    "Desarrollo/Web/Frameworks/BackEnd/Symfony/2.Templates con Twig/6. Incluir otros html en una plantilla twig.md",
-    "Programación/JavaScript/6.Arrays/5.Eliminar elementos de un array.md",
-    "Desarrollo/Web/Frameworks/BackEnd/Symfony/2.Templates con Twig/5.Ciclos o bucles en twig.md",
-    "Programación/JavaScript/6.Arrays",
-    "Bases de Datos/SQL",
-    "Desarrollo/Web/Frameworks/BackEnd/Symfony/2.Templates con Twig",
-    "Desarrollo/Web/Frameworks/BackEnd/Symfony/1. Rutas y controladores"
+    "Desarrollo/Web/Frameworks/BackEnd/Symfony/3.Implementación de templates/3.DOM (Implementación de Bootstrap).md"
   ]
 }
