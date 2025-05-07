@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "25d49708cfe036ed",
+        "id": "73673b863892b646",
         "type": "tabs",
         "children": [
           {
-            "id": "389f831e5673c055",
+            "id": "161ee963b6d584cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desarrollo/Web/Frameworks/BackEnd/Symfony/4.Formularios/5.Validaciones/1.Assert y Validator Interface.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1.Assert y Validator Interface"
+              "title": "New tab"
             }
           }
         ]
@@ -177,53 +173,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "389f831e5673c055",
+  "active": "f1488e07dc1ca064",
   "lastOpenFiles": [
-    "Pasted image 20250506135729.png",
-    "Pasted image 20250506135403.png",
+    "Bases de Datos/mySQL/3.Manipulación de datos/2.Actualización de datos.md",
+    "Recursos/Pasted image 20250507095457.png",
+    "Recursos/Pasted image 20250507095224.png",
+    "Bases de Datos/mySQL/2.Conocer estructuras/4.Modificar aspectos de una tabla..md",
+    "Bases de Datos/mySQL/2.Conocer estructuras/1. Estructura base de datos y objetos contenidos en ella..md",
+    "Bases de Datos/mySQL/3.Manipulación de datos/1.Insertar datos.md",
+    "Recursos/Pasted image 20250507094231.png",
+    "Recursos/Pasted image 20250507094151.png",
+    "Recursos/Pasted image 20250507093253.png",
+    "Programación/JavaScript/6.Arrays/5.Eliminar elementos de un array.md",
+    "Programación/JavaScript/6.Arrays/3.Recorrer un array y añadir elementos.md",
+    "Programación/JavaScript/6.Arrays/4.Crear un nuevo arreglo con spred operator.md",
+    "Programación/JavaScript/6.Arrays/2.Acceder a los valores de un array.md",
+    "Recursos/Pasted image 20250506160729.png",
+    "Recursos/Pasted image 20250506160205.png",
+    "Desarrollo/Web/Frameworks/BackEnd/Symfony/4.Formularios/5.Validaciones/1.Assert y Validator Interface.md",
+    "Recursos/Pasted image 20250506135729.png",
+    "Recursos/Pasted image 20250506135403.png",
     "Desarrollo/Web/Frameworks/BackEnd/ASP.NET CORE MVC",
     "Desarrollo/Web/Frameworks/BackEnd/Symfony/APIs/APIs.md",
     "Recursos/Pasted image 20250506100033.png",
     "Criptografía",
-    "Desarrollo/Web/Frameworks/BackEnd/Symfony/4.Formularios/5.Validaciones/1.Assert y Validator Interface.md",
     "Desarrollo/Escritorio/Electron",
     "Desarrollo/Movil/React Native",
     "Desarrollo/Escritorio",
     "Desarrollo/Web/Astro",
-    "Recursos/Pasted image 20250506134135.png",
-    "Recursos/Pasted image 20250506133903.png",
     "Desarrollo/Web/Frameworks/BackEnd/Symfony/4.Formularios/4.ChoiceType/1.ChoiceType.md",
     "Desarrollo/Web/Frameworks/BackEnd/Symfony/4.Formularios/5.Validaciones",
-    "Recursos/Pasted image 20250506125357.png",
-    "Recursos/Pasted image 20250506125152.png",
     "Desarrollo/Web/Frameworks/BackEnd/Symfony/2.Templates con Twig/7.Output Escaping.md",
     "Desarrollo/Web/Frameworks/BackEnd/Symfony/4.Formularios/2.Entity Forms/1.Creación de una entidad.md",
     "Desarrollo/Web/Frameworks/BackEnd/Symfony/4.Formularios/3.TypeForms/1.Creación de un TypeForm.md",
     "Desarrollo/Web/Frameworks/BackEnd/Symfony/4.Formularios/4.ChoiceType",
-    "Recursos/Pasted image 20250506124554.png",
-    "Recursos/Pasted image 20250506123542.png",
-    "Recursos/Pasted image 20250506123523.png",
-    "Recursos/Pasted image 20250506121131.png",
     "Desarrollo/Web/Frameworks/BackEnd/Symfony/4.Formularios/3.TypeForms",
     "Desarrollo/Web/Frameworks/BackEnd/Symfony/4.Formularios/1.Conceptos generales/1.Instalación de formularios.md",
     "Desarrollo/Web/Frameworks/BackEnd/Symfony/4.Formularios/2.Entity Forms",
     "Desarrollo/Web/Frameworks/BackEnd/Symfony/4.Formularios/1.Conceptos generales/2.Creación de formulario.md",
     "Desarrollo/Web/Frameworks/BackEnd/Symfony/4.Formularios/1.Conceptos generales/4.Procesar un formulario con handleRequest y isSubmitted.md",
     "Desarrollo/Web/Frameworks/BackEnd/Symfony/4.Formularios/1.Conceptos generales/6.Mensajes flash y redireccionamiento.md",
-    "Bases de Datos/mySQL/2.Conocer estructuras/4.Modificar aspectos de una tabla..md",
     "Bases de Datos/mySQL/2.Conocer estructuras/2.Actualizar las tablas.md",
-    "Bases de Datos/mySQL/2.Conocer estructuras/1. Estructura base de datos uy objetos contenidos en ella..md",
     "Hacking/Lenguaje Ensamblador x86-64/Registros/Registros de segmento/Registro SS.md",
     "Programación/Python/API/Conectar Python con ChatGPT.md",
     "Programación/Python/API/Conectar Python con AbuseIP.md",
     "Programación/Python/Generico/Conceptos Básicos/Textos.md",
     "Bases de Datos/mySQL/2.Conocer estructuras/3.Eliminar columnas de una tabla.md",
-    "Bases de Datos/mySQL/1.Creación/3.Columnas virtuales.md",
-    "Bases de Datos/mySQL/1.Creación/2.Creación de tablas.md",
-    "Bases de Datos/mySQL/00.Tipos de datos/Tratado de datos JSON.md",
-    "Bases de Datos/mySQL/00.Tipos de datos/Valores y tipos de datos.md",
-    "Bases de Datos/mySQL/1.Creación/1.Creación de la base de datos.md",
-    "Bases de Datos/mySQL/00a.Operadores/Operadores artiméticos y precedencia de operadores.md",
-    "Bases de Datos/mySQL/00a.Operadores/Operadores de conjuntos.md"
+    "Bases de Datos/mySQL/1.Creación/3.Columnas virtuales.md"
   ]
 }
